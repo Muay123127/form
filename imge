@@ -8,7 +8,7 @@
   <style>
     body {
       font-family: 'Noto Sans Lao', sans-serif;
-      background-color: #fef6f9;
+      background-color: #0670f0;
       color: #333;
       margin: 0;
       padding: 1em;
@@ -16,19 +16,19 @@
     .container {
       max-width: 500px;
       margin: auto;
-      background: #0670f0;
+      background: white;
       padding: 2em;
       border-radius: 20px;
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
     }
     h2 {
       text-align: center;
-      color: #fef6f9;
+      color: #0670f0
     }
     label {
       display: block;
       margin: 1em 0 0.5em;
-      color: white;
+      color:#0670f0
     }
     select, input[type="text"], input[type="tel"] {
       width: 100%;
@@ -41,7 +41,7 @@
       margin-top: 1.5em;
       width: 100%;
       background:  green;
-      color: white;
+      color:#0670f0;
       padding: 0.75em;
       border: none;
       border-radius: 10px;
@@ -69,7 +69,7 @@ header img {
 
 header h1 {
 
-  color: white;
+  color:#0670f0;
  margin: 0;
   line-height: 1.2;
 
